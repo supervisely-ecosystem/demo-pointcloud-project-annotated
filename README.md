@@ -24,7 +24,7 @@ Demo project with labeled pointclouds.
 
 ## Overview 
 
-`demo_pointcloud_project_annotated` is an example project with 2 datasets and 35 pointclouds. 
+`demo_pointcloud_project_annotated` is an example project with 2 datasets and 35 labeled pointclouds. 
 Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
