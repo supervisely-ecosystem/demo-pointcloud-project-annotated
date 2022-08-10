@@ -28,12 +28,12 @@ Demo project with labeled pointclouds.
 Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
-  <img src="https://user-images.githubusercontent.com/48913536/183939646-9787336f-fdec-4729-a0db-8d0320b48cb6.png"/>
+  <img src="https://user-images.githubusercontent.com/48913536/183950600-8fd5d2f1-338d-4a45-85d8-8699293e6690.png"/>
 </div>
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-project-annotated/releases/download/v0.0.1/demo_pointcloud_project_annotated.zip) (69 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v0.0.1/demo_pointcloud_project_annotated.zip) (69 MB).
 
 ## Statistics
 

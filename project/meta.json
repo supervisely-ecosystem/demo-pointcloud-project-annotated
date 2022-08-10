@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "title": "Car",
+            "shape": "cuboid_3d",
+            "color": "#0F828A",
+            "geometry_config": {},
+            "id": 517827,
+            "hotkey": ""
+        },
+        {
+            "title": "Cyclist",
+            "shape": "cuboid_3d",
+            "color": "#290F8A",
+            "geometry_config": {},
+            "id": 517828,
+            "hotkey": ""
+        },
+        {
+            "title": "DontCare",
+            "shape": "cuboid_3d",
+            "color": "#5B8A0F",
+            "geometry_config": {},
+            "id": 517829,
+            "hotkey": ""
+        },
+        {
+            "title": "Pedestrian",
+            "shape": "cuboid_3d",
+            "color": "#0F6E8A",
+            "geometry_config": {},
+            "id": 517830,
+            "hotkey": ""
+        },
+        {
+            "title": "Person_sitting",
+            "shape": "cuboid_3d",
+            "color": "#2C8A0F",
+            "geometry_config": {},
+            "id": 517831,
+            "hotkey": ""
+        },
+        {
+            "title": "Van",
+            "shape": "cuboid_3d",
+            "color": "#0F8A1F",
+            "geometry_config": {},
+            "id": 517832,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds"
+}

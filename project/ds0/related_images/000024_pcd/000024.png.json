@@ -1,0 +1,45 @@
+{
+    "pathOriginal": "/h5un6l2bnaz1vj8a9qgms4-public/images/original/h/B/sV/0HMOghmH0gtASW9xvRlmYNwgt3xljDbgxXHJdv5724PtvYxLx48HHFNfAGYnH4lUDXRmbOX4QyRmnEeIC4WVva00gXZxplacPU0bNP1addJuoix0r5EOamqldBHg.png",
+    "id": 341980,
+    "entityId": 3217127,
+    "createdAt": "2022-08-10T12:29:50.667Z",
+    "updatedAt": "2022-08-10T12:29:50.667Z",
+    "meta": {
+        "sensorsData": {
+            "extrinsicMatrix": [
+                0.00042767991544678807,
+                -0.9999672174453735,
+                -0.008084491826593876,
+                -0.011984598822891712,
+                -0.007210626266896725,
+                0.008081197738647461,
+                -0.999941349029541,
+                -0.0540398471057415,
+                0.9999738931655884,
+                0.0004859483742620796,
+                -0.007206933572888374,
+                -0.2921968698501587
+            ],
+            "intrinsicMatrix": [
+                718.8560180664062,
+                0,
+                607.1928100585938,
+                0,
+                718.8560180664062,
+                185.2156982421875,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    "fileMeta": {
+        "mime": "image/png",
+        "size": 723264,
+        "width": 1241,
+        "height": 376
+    },
+    "preview": "/previews/q/ext:jpeg/resize:fill:50:0:0/q:50/plain/h5un6l2bnaz1vj8a9qgms4-public/images/original/h/B/sV/0HMOghmH0gtASW9xvRlmYNwgt3xljDbgxXHJdv5724PtvYxLx48HHFNfAGYnH4lUDXRmbOX4QyRmnEeIC4WVva00gXZxplacPU0bNP1addJuoix0r5EOamqldBHg.png",
+    "fullStorageUrl": "https://dev.supervise.ly/h5un6l2bnaz1vj8a9qgms4-public/images/original/h/B/sV/0HMOghmH0gtASW9xvRlmYNwgt3xljDbgxXHJdv5724PtvYxLx48HHFNfAGYnH4lUDXRmbOX4QyRmnEeIC4WVva00gXZxplacPU0bNP1addJuoix0r5EOamqldBHg.png",
+    "name": "000024.png"
+}
