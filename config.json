@@ -1,6 +1,6 @@
 {
   "name": "Demo pointcloud project with labels",
-  "description": "35 pointclouds with annotations",
+  "description": "37 pointclouds with annotations",
   "type": "project",
   "categories": [
     "import",
@@ -8,5 +8,6 @@
     "project"
   ],
   "icon": "https://user-images.githubusercontent.com/48913536/183939634-ce374da3-f3dc-4924-97c3-c635dc0addce.png",
-  "icon_cover": true
+  "icon_cover": true,
+  "poster": "https://user-images.githubusercontent.com/48913536/184148134-1ebd34ad-a58c-42fc-b335-ce15a158bfff.png"
 }
