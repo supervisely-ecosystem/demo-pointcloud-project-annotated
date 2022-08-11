@@ -3,9 +3,9 @@
         {
             "title": "Car",
             "shape": "cuboid_3d",
-            "color": "#BD10E0",
+            "color": "#8A620F",
             "geometry_config": {},
-            "id": 517944,
+            "id": 146293,
             "hotkey": ""
         },
         {
@@ -13,7 +13,7 @@
             "shape": "cuboid_3d",
             "color": "#0F5E8A",
             "geometry_config": {},
-            "id": 517945,
+            "id": 146294,
             "hotkey": ""
         },
         {
@@ -21,7 +21,7 @@
             "shape": "cuboid_3d",
             "color": "#8A350F",
             "geometry_config": {},
-            "id": 517946,
+            "id": 146295,
             "hotkey": ""
         },
         {
@@ -29,7 +29,7 @@
             "shape": "cuboid_3d",
             "color": "#7F8A0F",
             "geometry_config": {},
-            "id": 517947,
+            "id": 146296,
             "hotkey": ""
         },
         {
@@ -37,7 +37,7 @@
             "shape": "cuboid_3d",
             "color": "#8A0F75",
             "geometry_config": {},
-            "id": 517948,
+            "id": 146297,
             "hotkey": ""
         },
         {
@@ -45,7 +45,7 @@
             "shape": "cuboid_3d",
             "color": "#8A0F5B",
             "geometry_config": {},
-            "id": 517949,
+            "id": 146298,
             "hotkey": ""
         }
     ],
