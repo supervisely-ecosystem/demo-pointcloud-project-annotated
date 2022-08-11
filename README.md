@@ -33,7 +33,7 @@ Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v0.0.1/demo_pointcloud_project_annotated.zip) (68 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v0.0.1/demo_pointcloud_project_annotated.zip) (55.5 MB).
 
 ## Statistics
 
