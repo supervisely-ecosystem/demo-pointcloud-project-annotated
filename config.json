@@ -1,6 +1,6 @@
 {
   "name": "Demo pointcloud project with labels",
-  "description": "16 pointclouds with annotations",
+  "description": "30 pointclouds with annotations",
   "type": "project",
   "categories": [
     "import",
