@@ -3,49 +3,49 @@
         {
             "title": "Car",
             "shape": "cuboid_3d",
-            "color": "#0F828A",
+            "color": "#BD10E0",
             "geometry_config": {},
-            "id": 517827,
+            "id": 517944,
             "hotkey": ""
         },
         {
             "title": "Cyclist",
             "shape": "cuboid_3d",
-            "color": "#290F8A",
+            "color": "#0F5E8A",
             "geometry_config": {},
-            "id": 517828,
+            "id": 517945,
             "hotkey": ""
         },
         {
             "title": "DontCare",
             "shape": "cuboid_3d",
-            "color": "#5B8A0F",
+            "color": "#8A350F",
             "geometry_config": {},
-            "id": 517829,
+            "id": 517946,
             "hotkey": ""
         },
         {
             "title": "Pedestrian",
             "shape": "cuboid_3d",
-            "color": "#0F6E8A",
+            "color": "#7F8A0F",
             "geometry_config": {},
-            "id": 517830,
+            "id": 517947,
             "hotkey": ""
         },
         {
             "title": "Person_sitting",
             "shape": "cuboid_3d",
-            "color": "#2C8A0F",
+            "color": "#8A0F75",
             "geometry_config": {},
-            "id": 517831,
+            "id": 517948,
             "hotkey": ""
         },
         {
             "title": "Van",
             "shape": "cuboid_3d",
-            "color": "#0F8A1F",
+            "color": "#8A0F5B",
             "geometry_config": {},
-            "id": 517832,
+            "id": 517949,
             "hotkey": ""
         }
     ],
