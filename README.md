@@ -14,7 +14,7 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-poinctloud-project-annotated)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-pointcloud-project-annotated)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/demo-pointcloud-project-annotated.png)](https://supervisely.com) 
 [![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/demo-pointcloud-project-annotated.png)](https://supervisely.com)
 
@@ -28,12 +28,12 @@ Demo project with labeled pointclouds.
 Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
-  <img src="https://user-images.githubusercontent.com/48913536/184111856-7fd7b46c-2628-44a6-8210-6b0fec9261c3.png"/>
+  <img src="https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v0.0.1/screenshot-demo-supervisely-com-app-point-clouds-1759759358952.png"/>
 </div>
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v0.0.1/demo_pointcloud_project_annotated.zip) (55.5 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-pointcloud-project-annotated/releases/download/v1.0.2/demo_pointcloud_project_annotated.zip) (55 MB).
 
 ## Statistics
 
